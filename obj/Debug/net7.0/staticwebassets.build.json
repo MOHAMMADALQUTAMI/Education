@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ENK2r0jD2QubPt5iFDpKaUkPcEuIIuf5nVU62EMaUPk=",
+  "Source": "ManyToMany",
+  "BasePath": "_content/ManyToMany",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
